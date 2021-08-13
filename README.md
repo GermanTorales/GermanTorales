@@ -1,15 +1,17 @@
 <img align= "right" width= "250" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
 ### Hi there 👋
+
 ### I'am German and i Full Stack JavaScript Developer
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/GermanTorales)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/german-torales/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:germantorales73@gmail.com)  
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:germantorales73@gmail.com)
 
-![Profile views](https://gpvc.arturio.dev/germantorales)  <img src="https://img.shields.io/github/followers/germantorales?label=Follow" style=" float:left, margin-right:10px" />
+![Profile views](https://gpvc.arturio.dev/germantorales) <img src="https://img.shields.io/github/followers/germantorales?label=Follow" style=" float:left, margin-right:10px" />
 
 ### Tech & Tools Preference :books:
+
 #### Back-end:
 
 ![Node](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white)
@@ -30,13 +32,13 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 
-
 #### Devops:
 
 ![NGINX](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 #### Others tools:
+
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -48,21 +50,15 @@
 
 ## Github Overview
 
-<img align="left" alt="German's Github Stats" src="https://github-readme-stats.vercel.app/api?username=germantorales&show_icons=true" />    &nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=germantorales)](https://github.com/germantorales/github-readme-stats) 
+<img align="left" alt="German's Github Stats" src="https://github-readme-stats.vercel.app/api?username=germantorales&show_icons=true" /> &nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=germantorales)](https://github.com/germantorales/github-readme-stats)
 
+## &#x1f4c8; GitHub Stats
 
-<!--
-**GermanTorales/GermanTorales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=germantorales&show_icons=true&locale=en&layout=compact&theme=radical" alt="germantorales" /></p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=germantorales&theme=radical" alt="germantorales" /></p>
+ 
+ <br />
+ 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=germantorales&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
