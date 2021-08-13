@@ -48,12 +48,14 @@
 
 <hr/>
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=germantorales&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
+
  <p><img align="center" width='100%' src="https://github-readme-streak-stats.herokuapp.com/?user=germantorales&theme=radical" alt="germantorales" /></p>
 
-<img align="left" alt="German's Github Stats" src="https://github-readme-stats.vercel.app/api?username=germantorales&show_icons=true&locale=en&layout=compact&theme=radical" /> &nbsp;
+<p>
+<img align="left" alt="German's Github Stats" src="https://github-readme-stats.vercel.app/api?username=germantorales&show_icons=true&locale=en&layout=compact&theme=radical" />
+</p>
 
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=germantorales&show_icons=true&locale=en&layout=compact&theme=radical" alt="germantorales" /></p>
+<p padding='0 0 20px 0'><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=germantorales&show_icons=true&locale=en&layout=compact&theme=radical" alt="germantorales" /></p>
 
  <br />
- 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=germantorales&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
