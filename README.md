@@ -37,7 +37,7 @@
 ![NGINX](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-#### Others tools:
+## Github Overview
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
@@ -48,17 +48,12 @@
 
 <hr/>
 
-## Github Overview
+ <p><img align="center" width='100%' src="https://github-readme-streak-stats.herokuapp.com/?user=germantorales&theme=radical" alt="germantorales" /></p>
 
-<img align="left" alt="German's Github Stats" src="https://github-readme-stats.vercel.app/api?username=germantorales&show_icons=true" /> &nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=germantorales)](https://github.com/germantorales/github-readme-stats)
-
-## &#x1f4c8; GitHub Stats
+<img align="left" alt="German's Github Stats" src="https://github-readme-stats.vercel.app/api?username=germantorales&show_icons=true&locale=en&layout=compact&theme=radical" /> &nbsp;
 
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=germantorales&show_icons=true&locale=en&layout=compact&theme=radical" alt="germantorales" /></p>
 
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=germantorales&theme=radical" alt="germantorales" /></p>
- 
  <br />
  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=germantorales&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
