@@ -5,9 +5,9 @@
 ### I'am German and I Full Stack JavaScript Developer
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/GermanTorales)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/german-torales/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:germantorales73@gmail.com)
-[![Website]](https://germantorales.com/)
+[![Linkedin Badge](https://img.shields.io/badge/GermanTorales-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/german-torales/)](https://www.linkedin.com/in/german-torales/)
+[![Gmail Badge](https://img.shields.io/badge/-GermanTorales-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:germantorales73@gmail.com)
+[![Website](https://img.shields.io/badge/Website-GermanTorales-blue)](https://germantorales.com/)
 
 ![Profile views](https://gpvc.arturio.dev/germantorales) <img src="https://img.shields.io/github/followers/germantorales?label=Follow" style=" float:left, margin-right:10px" />
 
