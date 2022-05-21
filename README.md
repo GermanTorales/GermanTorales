@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-### I'am German and I Full Stack JavaScript Developer
+### I'am German and I Full Stack Developer
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/GermanTorales)
 [![Linkedin Badge](https://img.shields.io/badge/GermanTorales-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/german-torales/)](https://www.linkedin.com/in/german-torales/)
